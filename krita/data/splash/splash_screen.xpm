@@ -1,5 +1,5 @@
 /* XPM */
-static const char *splash_holidays_xpm[]={
+static const char *splash_screen_xpm[]={
 "504 290 81951 3",
 "bAz c #1c1d1f",
 "bFI c #1d1d21",
